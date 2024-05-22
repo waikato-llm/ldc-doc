@@ -1,3 +1,3 @@
-# llm-dataset-converter plugins
+# ldc-doc plugins
 ## Readers
 * [from-doc-pt](from-doc-pt.md)
