@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.0.3 (????-??-??)
+0.0.3 (2024-12-20)
 ------------------
 
 - switched to `textract-py3` to avoid issues with modern pip (https://pypi.org/project/textract-py3/)
