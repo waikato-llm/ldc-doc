@@ -5,6 +5,7 @@ Changelog
 ------------------
 
 - switched to `textract-py3` to avoid issues with modern pip (https://pypi.org/project/textract-py3/)
+- switched to underscores in project name
 
 
 0.0.2 (2024-07-05)

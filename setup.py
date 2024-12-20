@@ -13,7 +13,7 @@ def _read(f):
 
 
 setup(
-    name="ldc-doc",
+    name="ldc_doc",
     description="Python3 library that adds MS Word .doc support to the llm-dataset-converter library.",
     long_description=(
             _read('DESCRIPTION.rst') + b'\n' +
