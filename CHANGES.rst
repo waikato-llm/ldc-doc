@@ -1,6 +1,12 @@
 Changelog
 =========
 
+0.0.5 (????-??-??)
+------------------
+
+- using `textract_py3` as dependency instead of `textract-py3`
+
+
 0.0.4 (2025-03-14)
 ------------------
 

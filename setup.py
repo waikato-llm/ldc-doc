@@ -32,7 +32,7 @@ setup(
     packages=find_namespace_packages(where='src'),
     install_requires=[
         "llm_dataset_converter>=0.2.4",
-        "textract-py3",
+        "textract_py3",
     ],
     version="0.0.4",
     author='Peter Reutemann',
